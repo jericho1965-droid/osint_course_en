@@ -1,4 +1,4 @@
-[![OSINT Course Banner](https://raw.githubusercontent.com/jericho1965-droid/osint_course/main/osint_banner.jpeg)](https://raw.githubusercontent.com/jericho1965-droid/osint_course/main/osint_banner.jpeg)
+[![OSINT Course Banner](https://raw.githubusercontent.com/jericho1965-droid/osint_course_en/main/osint_banner.jpeg)](https://raw.githubusercontent.com/jericho1965-droid/osint_course_en/main/osint_banner.jpeg)
 
 # 🔍 OSINT – Practical Handbook | Interactive Course
 
@@ -68,5 +68,3 @@ Read `CONTRIBUTING.md` for guidelines on submitting pull requests or reporting i
 1. Clone or download the repository to your working environment (a dedicated Linux virtual machine, such as Trace Labs OSINT VM or CSI Linux, is recommended).
 2. Open `index.html` in your preferred browser to access the interactive learning platform, quizzes, and assessments.
 3. Configure an isolated browser with privacy extensions (e.g., uBlock Origin) and maintain strict operational security (OPSEC).
-
-**Translation status:** The English documentation is available. The translated interactive HTML course is not yet published.
